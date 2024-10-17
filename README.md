@@ -10,7 +10,7 @@ Magic-Number-Finder is a Python script that finds file system magic numbers to i
 1. **Install Python 3**.
 2. **Download the source code**:
    ```sh
-   git clone https://github.com/yourusername/Magic-Number-Finder.git
+   git clone https://github.com/kmm2003/Magic-Number-Finder.git
    cd Magic-Number-Finder
    ```
 3. **Run the script**:
